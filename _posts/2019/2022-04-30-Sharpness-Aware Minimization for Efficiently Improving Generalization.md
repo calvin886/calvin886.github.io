@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【论文阅读】Sharpness-Aware Minimization
-categories: [SAM]
+categories: SAM
 description: 神经网络的优化
 keywords: Deeplearning, Optimization
 ---
