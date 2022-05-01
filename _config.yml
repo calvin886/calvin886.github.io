@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://feedliu.github.io
+url: https://calvin886.github.io
 date_format: "ordinal"
-title: "Feedliu's Blogs"
+title: "Jiacheng Shi"
 subtitle: "Share My Coding Life"
 description: "Share My Coding Life"
 keywords: Feedliu
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: feedliu
-organization: 
-organization_url: 
-github_username: feedliu
+author: Jiacheng Shi
+organization:
+organization_url:
+github_username: calvin886
 location: Beijing, China
 email: feedliu15@gmail.com
 
@@ -92,7 +92,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
